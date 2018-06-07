@@ -6,17 +6,16 @@
 [options]
 
 ; require a login?
-doLogin = true
+doLogin = false
 
 ; log all interactions?
-logActions = true
-
+logActions = false
 
 ; paths to site files
 [paths]
 
 ; path to sound clips
-sfx = "/Users/pete/Dropbox/_me/ghetto-blaster/sfx/"
+sfx = "/var/www/mp3/"
 
 
 ; user array (if login is required)
@@ -24,9 +23,6 @@ sfx = "/Users/pete/Dropbox/_me/ghetto-blaster/sfx/"
 
 ; format to use: 
 ;username = "password"
-
-hello = "world"
-pete = "ginger"
 
 ;*/
 ;?>
